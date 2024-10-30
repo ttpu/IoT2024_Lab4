@@ -1,4 +1,4 @@
-# Lab 3 repository - IoT course (2024-2025)
+# Lab 4 repository - IoT course (2024-2025)
 
 **Team N:** XX
 
