@@ -29,6 +29,16 @@ Your program must read and send temperature data every 5 second to the Serial po
 For the rest of instruction, follow the *pdf guide of Lab 3* and the **task1.ino** file comments and TODO list
 
 
-### Task 2:
+### Task 2: Sending and Receiving Temperature Data with Dweet.io
+In this task, you'll extend your ESP32 functionality to send temperature data to dweet.io and retrieve temperature data from another team's device. You will use two essential libraries: “HTTPClient” for HTTP communication and “ArduinoJSON” to format and parse JSON data.
+
+Objective
+*	Send temperature data from the LM35 sensor to dweet.io every 3 seconds.
+*	Retrieve data from the other team’s ESP32 every 3 seconds.
+*	Display the retrieved temperature data on the Serial Monitor.
+
+For the rest of instruction, follow the *pdf guide of Lab 3* and the **task2.ino** file comments and TODO list
 
 ### Task 3:
+
+### Task 4: 
