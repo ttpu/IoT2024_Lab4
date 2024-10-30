@@ -50,4 +50,3 @@ Objective
 
 For the rest of instruction, follow the *pdf guide of Lab 3* and the **task3.ino** file comments and TODO list
 
-### Task 4: 
