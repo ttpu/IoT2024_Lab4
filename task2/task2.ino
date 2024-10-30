@@ -86,6 +86,8 @@ float getTemperatureFromDweet() {
   // Parse JSON response
   float otherTeamTemp = 0.0; // Initialize variable to store temperature
   if (http.GET() > 0) { 
+    // TODO: Get the response payload to a string variable "payload"
+    
     // Use ArduinoJSON to parse JSON response and extract "temp" value
     /* Example JSON structure: 
     {
@@ -102,8 +104,6 @@ float getTemperatureFromDweet() {
             }
         ]
     } */
-
-    // TODO: Get the response payload to a string variable "payload"
 
     // Allocate memory for the JSON document
     DynamicJsonDocument doc(1024);
