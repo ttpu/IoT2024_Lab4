@@ -40,5 +40,14 @@ Objective
 For the rest of instruction, follow the *pdf guide of Lab 3* and the **task2.ino** file comments and TODO list
 
 ### Task 3:
+Receiving Data from Dweet.io and Displaying on LCD
+In this task, you will set up an I2C LCD display to show temperature data from your own device and retrieve data from another team’s device via dweet.io. This requires integrating the I2C LCD display and extending your HTTP request skills.
+
+Objective
+*	Set up and initialize an I2C LCD display.
+*	Display the local temperature (from the LM35 sensor) on Row 1 of the LCD.
+*	Retrieve temperature data from another team’s ESP32 via dweet.io and display it on Row 2 of the LCD.
+
+For the rest of instruction, follow the *pdf guide of Lab 3* and the **task3.ino** file comments and TODO list
 
 ### Task 4: 
