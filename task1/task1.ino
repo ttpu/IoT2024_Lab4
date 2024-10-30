@@ -16,7 +16,7 @@ void setup() {
   WiFi.begin(ssid, password);
   
   // TODO: Add a loop to check WiFi.status() until it is connected.
-  // When connected, print the IP address.
+  // TODO: When connected, print the IP address.
 }
 
 void loop() {
